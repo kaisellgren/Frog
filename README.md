@@ -3,13 +3,16 @@ What's Frog?
 Frog is a NodeJS module that enables Google Dart support. You may now write server-side Dart enabled NodeJS applications.
 
 ## How to install
-It's not yet released, but when it is:
 
 ```
 npm install Frog
 ```
 
-For now, clone the repo.
+Or clone the repo.
+
+You also need to have Dart SDK installed: http://www.dartlang.org/docs/getting-started/sdk/#download
+
+Make sure the installation bin folder is in your environment ```$PATH```.
 
 ## Examples
 
