@@ -1,0 +1,36 @@
+{
+    "name": "Frog",
+    "version": "0.1.0",
+    "description": "Provides support for require()'ing Google Dart source files (.dart).",
+    "keywords": [
+        "dart",
+        "google",
+        "frog",
+        "compiler"
+    ],
+    "homepage": "https://github.com/kaisellgren/Frog",
+    "author": "Kai Sellgren",
+    "contributors": [
+        "Kai Sellgren"
+    ],
+    "bugs": {
+        "url": "https://github.com/kaisellgren/Frog/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/kaisellgren/Frog/raw/master/LICENSE"
+        }
+    ],
+    "main": "lib/Frog.js",
+    "repository": {
+        "type": "git",
+        "url": "https://kaisellgren@github.com/kaisellgren/Frog.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {},
+    "engines": {
+        "node": ">=0.6.15"
+    }
+}
