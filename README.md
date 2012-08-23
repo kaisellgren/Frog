@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/kaisellgren/Frog.png)](http://travis-ci.org/kaisellgren/Frog)
 What's Frog?
 ==
 Frog is a NodeJS module that enables Google Dart support. You may now write server-side Dart enabled NodeJS applications.
